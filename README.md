@@ -43,6 +43,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIX-111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OLIX-111&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OLIX-111&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OLIX-111&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 📫 How to reach me
