@@ -1,26 +1,26 @@
-<h1 align="center">¡Hola! 👋 Soy Oliver</h1>
+<h1 align="center">Hi there! 👋 I'm Oliver</h1>
 
 <p align="center">
-  Desarrollador apasionado por crear soluciones web modernas y eficientes.
+  Passionate developer building modern and efficient web solutions.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Frontend+Developer;Python+Enthusiast;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Frontend+Developer;Python+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-- 🔭 Actualmente trabajando en proyectos con **React** y **Python**
-- 🌱 Aprendiendo constantemente nuevas tecnologías del ecosistema web
-- 👯 Abierto a colaborar en proyectos open source
-- 💬 Pregúntame sobre **JavaScript, HTML, CSS, React o Python**
-- ⚡ Fun fact: me encanta transformar ideas en interfaces funcionales
+- 🔭 Currently working on projects with **React** and **Python**
+- 🌱 Constantly learning new technologies in the web ecosystem
+- 👯 Open to collaborating on open source projects
+- 💬 Ask me about **JavaScript, HTML, CSS, React or Python**
+- ⚡ Fun fact: I love turning ideas into functional interfaces
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OLIX-111&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to reach me
 
 <p align="center">
   <a href="mailto:olivermejiadamaso111@gmail.com">
@@ -54,5 +54,9 @@
 </p>
 
 <p align="center">
-  ⭐️ Gracias por visitar mi perfil ⭐️
+  📧 <a href="mailto:olivermejiadamaso111@gmail.com">olivermejiadamaso111@gmail.com</a>
+</p>
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile ⭐️
 </p>
